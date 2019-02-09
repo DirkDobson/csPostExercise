@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/StackOverFlowPost.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
