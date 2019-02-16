@@ -19,6 +19,18 @@ namespace StackOverFlowPost
 
             System.Console.WriteLine("Do you want to like, dislike to the or neither l, d, or n");
             string like = Console.ReadLine();
+            if (like == "l")
+            {
+
+            }
+            else if (like == "d")
+            {
+
+            }
+            else
+            {
+
+            }
         }
     }
 }
