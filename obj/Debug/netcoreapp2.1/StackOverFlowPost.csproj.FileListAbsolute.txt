@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/bin/Debug/netcoreapp2.1/StackOverFlowPost.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/bin/Debug/netcoreapp2.1/StackOverFlowPost.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/bin/Debug/netcoreapp2.1/StackOverFlowPost.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/bin/Debug/netcoreapp2.1/StackOverFlowPost.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/bin/Debug/netcoreapp2.1/StackOverFlowPost.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/obj/Debug/netcoreapp2.1/StackOverFlowPost.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/obj/Debug/netcoreapp2.1/StackOverFlowPost.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/obj/Debug/netcoreapp2.1/StackOverFlowPost.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/obj/Debug/netcoreapp2.1/StackOverFlowPost.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/obj/Debug/netcoreapp2.1/StackOverFlowPost.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/StackOverFlowPost/obj/Debug/netcoreapp2.1/StackOverFlowPost.pdb
