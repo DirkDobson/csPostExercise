@@ -11,6 +11,9 @@ namespace StackOverFlowPost
             string input = Console.ReadLine();
             if (input == "y")
             {
+                Post.postCreated = DateTime.Now;
+                System.Console.WriteLine("What is the description of your post");
+                Post.discription = Console.ReadLine();
                 System.Console.WriteLine("Write your post");
                 Post.body = Console.ReadLine();
             }
@@ -33,7 +36,7 @@ namespace StackOverFlowPost
             {
                 System.Console.WriteLine("You did not like or dislike the post");
             }
-            System.Console.WriteLine("{0}, likes = {1}, dislikes = {2}", Post.body, Post.likes, Post.dislikes );
+            System.Console.WriteLine("{0}, {1}, likes = {2}, dislikes = {3}, Post create at {4}", Post.discription, Post.body, Post.likes, Post.dislikes, Post.postCreated );
         }
     }
 }

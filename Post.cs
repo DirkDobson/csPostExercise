@@ -4,7 +4,7 @@ namespace StackOverFlowPost
 {
   public class Post
   {
-    public DateTime  postCreated = DateTime.Now;
+    public DateTime  postCreated;
 
     public string discription = "";
     public string body = ""; 
