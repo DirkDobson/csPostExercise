@@ -10,11 +10,9 @@ namespace StackOverFlowPost
             string input = Console.ReadLine();
             if (input == "y")
             {
-
-            }
-            else
-            {
-
+                var Post = new Post();
+                System.Console.WriteLine("Write your post");
+                Post.body = Console.ReadLine();
             }
 
             System.Console.WriteLine("Do you want to like, dislike to the or neither l, d, or n");
